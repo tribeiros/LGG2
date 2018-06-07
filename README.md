@@ -1,11 +1,11 @@
-#Instalação LineageOS no LG G2
+# Instalação LineageOS no LG G2
 
 A instalação segue duas vertentes de acordo com o Android que está no celular, KitKat ou Lolipop
 A diferença está no firmware de boot, sendo que o Lineageos necessita do boot do LP 
 
-##Instalação a partir do KK
+## Instalação a partir do KK
 
-###pré requisitos
+### pré requisitos
 
 LG one click root
 AutoRec
@@ -15,7 +15,7 @@ LineageOS
 gapps
 su arm
 
-###Passo a Passo
+### Passo a Passo
 
 Habilitar a opção de desenvolver no KK
 ativar depuração usb
